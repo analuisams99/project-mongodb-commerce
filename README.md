@@ -13,10 +13,10 @@ Nesse projeto, trabalhei com o banco de dados `commerce` (`MongoDB`), que conté
 
   1. Clone o repositório
 
-  - `git clone git@github.com:tryber/sd-015-a-mongodb-commerce.git`.
+  - `git clone git@github.com:analuisams99/project-mongodb-commerce.git`.
 
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-015-a-mongodb-commerce`
+    - `cd project-mongodb-commerce`
   2. Instale as dependências
 
   - `npm install`
